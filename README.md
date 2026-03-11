@@ -1,5 +1,5 @@
 ![logo](https://github.com/rahilahmed95/rahilahmed95/blob/main/github%20banner.gif)
-<h1 align="center">Hi 👋, I'm Rahil Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Dohaa Mahmoud</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
