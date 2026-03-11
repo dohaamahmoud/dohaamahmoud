@@ -1,4 +1,4 @@
-<h1 align="center">Hi , Dohaa Mahmoud</h1>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+Dohaa Mahmoud!+👋🏻)](https://github.com/mehendisil2004)
 <h3 align="center">A dabbling and inconsistent coder from Kashmir</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/samarsajad/samarsajad/assets/142666229/51d590e2-dc2f-4beb-b117-22538c953315">
 
