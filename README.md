@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dohaa Mahmoud</h1>
+
 <h3 align="center">📊 Aspiring Data Analyst | Software Engineering Student</h3>
+
+<p align="center">
+Turning raw data into meaningful insights through data analysis and visualization.
+</p>
 
 ---
 
@@ -15,35 +20,33 @@
 - Power BI
 - Python for Data Analysis
 
-🎯 Goal:
-Become a professional Data Analyst by building real-world projects and turning data into meaningful insights.
-
-📫 Reach me:
-- LinkedIn: (ضعي لينك لينكدإن)
-- Email: (اكتبي إيميلك)
+🎯 My Goal:
+Become a professional Data Analyst by building real-world projects and transforming data into actionable insights.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- Excel
-- SQL
-- Power BI
-- Python
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Visualization
-- Git & GitHub
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,git,github" />
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Coffee Shop Sales Dashboard
-- Cleaned 10,000+ records using Excel.
+- Cleaned and transformed 10,000+ records using Excel.
 - Built an interactive dashboard.
-- Created KPIs and visual reports.
+- Created KPIs and business insights.
 
 ### 📈 Data Cleaning Project
 - Removed duplicates.
@@ -51,16 +54,35 @@ Become a professional Data Analyst by building real-world projects and turning d
 - Standardized data.
 - Created a Data Cleaning Log.
 
-### 🗄 SQL Practice
-- SQL Queries
+### 🗄 SQL Portfolio
+- SELECT Statements
 - Joins
-- Aggregations
+- Group By
+- Aggregate Functions
 - Views
-- Stored Procedures (Coming Soon)
+- CTEs
 
-### 📊 Power BI Projects
-Coming Soon...
+### 📊 Power BI Dashboards
+🚧 Coming Soon...
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📈 GitHub Stats
+
+![Dohaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dohaamahmoud&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dohaamahmoud&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn: https://www.linkedin.com/in/dohaa-mahmoud-633a7b405?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+📧 Email: dohaamahmoud70@gmail.com
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
