@@ -2,43 +2,39 @@
 
 # 👋 Hi, I'm Dohaa Mahmoud
 
-### 📊 Aspiring Data Analyst | Software Engineering Student
+### 📊 Aspiring Data Analyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Actionable+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Always+Learning+and+Building+Projects"/>
+🎓 Software Engineering Student | Egypt 🇪🇬
+
+*Turning data into insights through analysis and visualization.*
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 Software Engineering Student from Egypt
+I'm a Software Engineering student passionate about Data Analytics and Business Intelligence.
 
-📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization.
+Currently expanding my skills by building real-world projects using:
 
-🌱 **Currently Learning**
+- 📊 Excel
+- 🗄 SQL
+- 📈 Power BI
+- 🐍 Python
+- 📉 Pandas & NumPy
 
-- Microsoft Excel
-- SQL
-- Power BI
-- Python
-- Pandas & NumPy
-
-🎯 **Career Goal**
-
-To become a professional Data Analyst by building real-world projects and transforming data into actionable insights that support better decision-making.
+My goal is to become a Data Analyst who transforms raw data into valuable business insights.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
@@ -56,55 +52,46 @@ To become a professional Data Analyst by building real-world projects and transf
 
 # 📂 Featured Projects
 
-### 📊 Coffee Shop Sales Dashboard
+## ☕ Coffee Shop Sales Dashboard
 
-- Cleaned and transformed 10,000+ records.
-- Built an interactive Excel Dashboard.
-- Created KPIs and business insights.
+- Data Cleaning
+- KPI Analysis
+- Interactive Dashboard
+- Business Insights
 
 ---
 
-### 📈 Excel Data Cleaning
+## 📊 Excel Data Cleaning
 
 - Missing Values
 - Remove Duplicates
-- Data Validation
 - Power Query
+- Data Validation
 
 ---
 
-### 🗄 SQL Portfolio
+## 🗄 SQL Portfolio
 
-🚧 Currently Building
-
----
-
-### 📊 Power BI Dashboards
-
-🚧 Coming Soon
+Currently Building 🚧
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Power BI Dashboards
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dohaamahmoud&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohaamahmoud&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-</p>
+Coming Soon 🚀
 
 ---
 
-## 🔥 GitHub Streak
+# 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dohaamahmoud&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Excel Advanced
+- SQL
+- Power BI
+- Python for Data Analysis
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -122,13 +109,9 @@ To become a professional Data Analyst by building real-world projects and transf
 
 <div align="center">
 
-### 📚 Currently Learning
+### ⭐ Thanks for visiting my profile!
 
-Excel • SQL • Power BI • Python • Data Visualization
-
----
-
-⭐ *"Without data, you're just another person with an opinion."*  
-**— W. Edwards Deming**
+*"Without data, you're just another person with an opinion."*  
+— W. Edwards Deming
 
 </div>
